@@ -14,12 +14,18 @@ http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1,NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1,TV ONE 2
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1,NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1,Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1,Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1,Berita satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1,JTV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
 #EXTINF:-1,TVRI
@@ -54,216 +60,12 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1,MYCE
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1,Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/287994017022/287994017022/16746
-#EXTINF:-1,Globo SP HD+
-http://xcui.vitvabc.xyz:8880/287994017022/287994017022/16730
-#EXTINF:-1,Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/287994017022/287994017022/16700
-#EXTINF:-1,MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/287994017022/287994017022/31279
 #EXTINF:-1,HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #EXTINF:-1,ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,&pictures HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1,CNN
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1,DIGIONE MAXSTREAM
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:-1,ELSHINTA
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1,MAGNA CHANNEL
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-#EXTINF:-1,O CHANNEL
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1,RRI-NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1,TVRI WORLD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1,UG TV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1,BADAR TV
-https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:-1,BANDUNG TV
-http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1,BANJAR TV
-https://v2.siar.us/banjartv/livestream/chunks.m3u8
-#EXTINF:-1,DM TV [MALANG]
-http://bravo.kugo.id:1935/dmtvmalang/rtmp.stream_360p/chunklist_w656174325.m3u8
-#EXTINF:-1,DUTA TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1,GARUDA TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1,KUGO 1
-http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
-#EXTINF:-1,AHSAN TV
-https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:-1,ASHIIL TV
-https://h1.intechmedia.net/intech/ch2.m3u8
-#EXTINF:-1,AL-BAHJAH TV
-https://h1.intechmedia.net/intech/ch64.m3u8
-#EXTINF:-1,ALFURQON
-https://h1.intechmedia.net/intech/ch24.m3u8
-#EXTINF:-1,AL-INSAN TV
-https://h1.intechmedia.net/intech/ch1.m3u8
-#EXTINF:-1,AL QURAN AL KAREEM
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1,BINA MADANI TV
-https://h1.intechmedia.net/intech/ch20.m3u8
-#EXTINF:-1,BIN BAZ TV
-https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:-1,BRITISH MUSLIM
-https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1,HIJRAH TV
-https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:-1,MADANI TV
-https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-#EXTINF:-1,MEDS TV
-https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:-1,MUADZ TV
-https://h1.intechmedia.net/intech/ch5.m3u8
-#EXTINF:-1,NIAGA TV
-https://h1.intechmedia.net/intech/ch10.m3u8
-#EXTINF:-1,RASYAAD TV
-https://h1.intechmedia.net/intech/ch6.m3u8
-#EXTINF:-1,SJP TV
-https://h1.intechmedia.net/intech/ch17.m3u8
-#EXTINF:-1,UFA TV
-https://h1.intechmedia.net/intech/ch27.m3u8
-#EXTINF:-1,WESAL TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF:-1,CCM
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1,CINEMA WORLD
-http://210.210.155.35/session/1c3b9f90-7a97-11ec-8b65-b82a72d63267/dr9445/h/h04/index.m3u8
-#EXTINF:-1,KPLUS
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1,PEOPLE ARE AWESOME
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1,TVN
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1,TVN MOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1,ONE
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1,ZEE BIOSKOP
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1,SUKAN RTM
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1,ABU DHABI SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,DUBAI SPORTS 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,FIGHTBOX
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,FIGHT SPORT
-http://210.210.155.37/dr9445/h/h05/index.m3u8
-#EXTINF:-1,MOTOVISION
-http://210.210.155.37/uq2663/h/h09/index.m3u8
-#EXTINF:-1,RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652233078~exp=9007200906974069~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba5e42a00f270a8fcb34a7e08a46d853402bb14701ab7a52463b0b351bbfd01c
-#EXTINF:-1,STADIUM 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1,SWISS SPORT TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1,ASTRO SUPERSPORT 1
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
-#EXTINF:-1,ASTRO SUPERSPORT 2
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
-#EXTINF:-1,ASTRO SUPERSPORT 3
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
-#EXTINF:-1,PASAR BRINGHARJO
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w1552945018.m3u8
-#EXTINF:-1,MALIOBORO RAMAYANA
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/chunklist_w1222744991.m3u8
-#EXTINF:-1,MALIOBORO TERANG BULAN
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1607830917.m3u8
-#EXTINF:-1,MALIOBORO SIMPANG PAJEKSAN
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w23859699.m3u8
-#EXTINF:-1,MALIOBORO MUTIARA BARU
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w1845951934.m3u8
-#EXTINF:-1,NOLKM BNI
-https://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/chunklist_w1148820841.m3u8
-#EXTINF:-1,NOLKM UTARA
-https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/chunklist_w873098934.m3u8
-#EXTINF:-1,NOLKM GDAGUNG
-https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/chunklist_w1114256865.m3u8
-#EXTINF:-1,SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1,K+
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
-#EXTINF:-1,Egg Network
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1,Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1,DISCOVERY ASIA
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,LOVE NATURE
-https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:-1,MAKKAH TV
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1,MADINAH TV
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1,SURAU TV (Backup)
-http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
-#EXTINF:-1,ASHIIL TV (Backup)
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
-#EXTINF:-1,AL IMAN TV
-https://h1.intechmedia.net/intech/ch9.m3u8
-#EXTINF:-1,AL IMAN TV (Backup)
-http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
-#EXTINF:-1,IZZAH TV
-https://h1.intechmedia.net/intech/ch7.m3u8
-#EXTINF:-1,MGI TV
-https://h1.intechmedia.net/intech/ch25.m3u8
-#EXTINF:-1,MGI TV (Backup)
-https://tv.rodja.live/tasik/mgitv/playlist.m3u8
-#EXTINF:-1,HIDAYAH TV
-https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
-#EXTINF:-1,TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1,TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1,TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-#EXTINF:-1,Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1,TV-Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1,TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1,TV7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1,TV8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1,TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1,RTM Berita
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1,FIGHT SPORTS
-https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1,Soccer channel
-https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1,Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1,Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1,TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1,DAAITV
 http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1,ELSHINTATV
@@ -316,6 +118,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,Service
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
+#EXTINF:-1,THRILL
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1,CINEMA WORLD
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,BLUE ANT ENTERTAINMENT
@@ -404,6 +208,8 @@ http://210.210.155.35/session/68492616-b048-11ea-be19-8064b1f0e124/qwr9ew/s/s20/
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1,Akudji TV
+https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,ALFA DRAMAS (226p)
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:-1,AMC IFC Film Picks
@@ -630,6 +436,8 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1,RunTime
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Santhora Short Flim (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1,Sky-MoviesComedy
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1,STIRR Black Cinema (720p)
@@ -672,6 +480,8 @@ http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1,
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,
@@ -796,6 +606,8 @@ https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1,Conecta TV (720p)
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1,Desi Channel (400p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1,Dhamaal (480p)
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1,Dijlah Tarab (576p)
@@ -938,6 +750,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1,Mosaïque FM (480p)
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1,Mtunes Plus (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1,MTV Biggest Pop (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1,MTV Spankin' New (720p)
