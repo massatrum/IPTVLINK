@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:24,BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:0,TVRI WORLD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:0,KPLUS
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:0,TVN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:0,TVN MOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:0,ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:60,SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:0,K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:30,Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:0,TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0,CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:64,DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:60,ELSHINTA
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:64,MAGNA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:0,O CHANNEL
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF:0,RRI-NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:0,BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:0,BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:0,DM TV [MALANG]
+http://bravo.kugo.id:1935/dmtvmalang/rtmp.stream_360p/chunklist_w656174325.m3u8
+#EXTINF:0,DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:0,GARUDA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:0,KUGO 1
+http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
+#EXTINF:0,AL QURAN AL KAREEM
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:0,BRITISH MUSLIM
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:0,MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+#EXTINF:0,WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:0,CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:0,CINEMA WORLD
+http://210.210.155.35/session/1c3b9f90-7a97-11ec-8b65-b82a72d63267/dr9445/h/h04/index.m3u8
+#EXTINF:0,PEOPLE ARE AWESOME
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0,ZEE BIOSKOP
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,SUKAN RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:0,ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0,FIGHT SPORT
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:0,MOTOVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+#EXTINF:0,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652233078~exp=9007200906974069~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba5e42a00f270a8fcb34a7e08a46d853402bb14701ab7a52463b0b351bbfd01c
+#EXTINF:0,STADIUM 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0,SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:0,ASTRO SUPERSPORT 1
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+#EXTINF:0,ASTRO SUPERSPORT 2
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+#EXTINF:0,ASTRO SUPERSPORT 3
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+#EXTINF:0,PASAR BRINGHARJO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w1552945018.m3u8
+#EXTINF:29,MALIOBORO RAMAYANA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/chunklist_w1222744991.m3u8
+#EXTINF:0,MALIOBORO TERANG BULAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1607830917.m3u8
+#EXTINF:0,MALIOBORO SIMPANG PAJEKSAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w23859699.m3u8
+#EXTINF:0,MALIOBORO MUTIARA BARU
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w1845951934.m3u8
+#EXTINF:0,NOLKM BNI
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/chunklist_w1148820841.m3u8
+#EXTINF:0,NOLKM UTARA
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/chunklist_w873098934.m3u8
+#EXTINF:0,NOLKM GDAGUNG
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/chunklist_w1114256865.m3u8
+#EXTINF:0,Egg Network
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:60,MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:0,MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:0,SURAU TV (Backup)
+http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
+#EXTINF:0,ASHIIL TV (Backup)
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
+#EXTINF:0,AL IMAN TV (Backup)
+http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
+#EXTINF:0,MGI TV (Backup)
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:0,HIDAYAH TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+#EXTINF:0,TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:0,TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:0,TV-Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:0,TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:0,RTM Berita
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:0,Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:0,Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
