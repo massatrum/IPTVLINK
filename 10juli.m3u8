@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined",CLARITY 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",FASHION 4K
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Quietude 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TRT 4K
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4001/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",.AR.: BEIN SPORTS PREMIUM 1 FHD 4K
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/30756.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/m3jRPof.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe 4K (2160p)
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Наша Сибирь 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Наша Сибирь 4K
+https://livetv.mylifeisgood.ml/channels/nashasibir4k?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO (1080p)
+http://194.76.186.33:8000/play/a03n/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3QIHh2V.png",HBO 3 (576p)
+http://194.76.186.33:8000/play/a02o/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",UK - HBO 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/68730?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",UK - HBO Low BW
+http://2hubs.ddns.net:25461/BabNour/telegrramm/68733?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",UK - HBO Zone
+http://2hubs.ddns.net:25461/BabNour/telegrramm/68735?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.newmediafilmfestival.com/img/hbo.png",HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",HBO 2
+http://archive.org/download/54848441_201808/54848441.mp4?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",HOT HBO HD (Израиль)
+http://myott.top/stream/DT6QU63K5VX/381.m3u8?checkedby:iptvcat.com
