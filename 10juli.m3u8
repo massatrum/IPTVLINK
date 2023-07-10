@@ -43,3 +43,179 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
 http://archive.org/download/54848441_201808/54848441.mp4?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",HOT HBO HD (Израиль)
 http://myott.top/stream/DT6QU63K5VX/381.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="FRANCE",FOX KIDS
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/271992.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/k2aV1A0.jpg",Fox Tv Greece
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/cvpDeYH.png",Fox TV [Not 24/7]
+http://stream-live.in:11037/hls/foxtv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",PT - FOX CRIME HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62014?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",PT - FOX Comedy
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62012?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",PT - FOX Movies
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62020?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",PT - FOX Movies HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62021?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News",PT - FOX News
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62022?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 Savannah GA (WTGS)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Fox Soul
+https://foxsoul-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/tBvEL2d.png",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YIamDGn.png",Fox Soul (720p)
+https://lnc-fox-soul-scte.tubi.video/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/homSiDa.png",Fox Türkiye (720p)
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Fox Weather (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Fox Weather (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News",NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg",NewsNow from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local;Undefined" tvg-logo="https://i.imgur.com/XOqJ7nO.png",US | Savannah | FOX 28 WTGS
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",Fox 15 West Texas Abilene TX (KXVA)
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",Fox 43 Harrisburg PA (WPMT)
+https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/E8nKknc.png",Fox 54.1 Huntsville
+https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/512px-WTIC_%282020%29.svg.png",Fox 61 News Hartford CT (WTIC-TV)
+https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/YIamDGn.png",Fox Soul (1080p) [Not 24/7]
+https://fox-foxsoul-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1JnyzHv.png",LiveNOW from FOX (720p)
+https://lnc-fox-live-now.tubi.video/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/63s1k43.png",Portal FoxMix HD
+http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Afghan Nobel Movies (720p)
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Comedy Movies Germany 2 (720p)
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U Movies India (576p)
+http://183.89.246.119:8881/play/a08n/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",IND - B4U MOVIES
+http://2hubs.ddns.net:25461/BabNour/telegrramm/58354?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",IND - Bflix Movies HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67171?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",American Horrors Movies EN
+http://170.178.189.70:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies;FRANCE" tvg-logo="https://i.imgur.com/X7OZ3w5.png",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/X7OZ3w5.png",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p) [Geo-blocked]
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies;FRANCE" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies;FRANCE" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies (Indonesian Subtitle) (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h14/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png",GRAVITAS MOVIES
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XlNKtkD.jpg",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/uvgzOP5.png",Gravitas Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU",MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/iK3OHVr.png",Maverick Movies
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies;FRANCE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png",Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MovieFe (360p)
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",MovieSphere : HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Moviesphere (England)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/DTXQ3Pc.png",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/SQInLji.png",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MyTime Movie Network (1080p)
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MyTime Movie Network (Brazil)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MyTime Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined;FRANCE;PAKISTAN",Mytime Movies (1080p)
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rai Movie [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Action Movies
+https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined;FRANCE",Rakuten Action Movies (720p)
+https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/81NIxYJ.jpg",Rakuten Action Movies Germany (720p)
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",Rakuten Action Movies Italy (720p)
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",Rakuten Action Movies Spain (720p)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Action Movies UK (720p)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Comedy Movies
+https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined;FRANCE",Rakuten Comedy Movies (720p)
+https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg",Rakuten Comedy Movies France (720p)
+https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg",Rakuten Comedy Movies France (720p)
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/slOK2IH.jpg",Rakuten Comedy Movies Germany (720p)
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg",Rakuten Comedy Movies Italy (720p)
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png",Rakuten Comedy Movies Spain (720p)
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Rakuten Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true",Roku : Moviesphere
+https://moviesphere-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",STIRR Gravitas Movies (720p)
+https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true",Victor Valley TV-3 : Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies;FRANCE" tvg-logo="https://i.imgur.com/oLzTyUX.png",tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/oLzTyUX.png",tvN Movies (Indonesian Subtitle) (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h21/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Movie Sphere [Pluto]
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",UK - MovieMax
+http://2hubs.ddns.net:25461/BabNour/telegrramm/68737?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",Sony Movies (Sony Movie Channel)
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",YES Movies Action HD (Израиль)
+http://myott.top/stream/DT6QU63K5VX/380.m3u8?checkedby:iptvcat.com
