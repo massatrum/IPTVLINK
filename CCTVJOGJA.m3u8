@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 ,MALIOBORO PERWAKILAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/chunklist_w8190219.m3u8
+#EXTINF:-1 ,MALIOBORO_DEPAN_BPD_KEPATIHAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_23_Depan_BPD_Kepatihan.stream/chunklist_w975331296.m3u8
+#EXTINF:-1 ,MALIOBORO_DEPAN_DISPAR
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/chunklist_w1194345913.m3u8
+#EXTINF:-1 ,MALIOBORO_DEPAN_DPRD
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/chunklist_w41964031.m3u8
+#EXTINF:-1 ,MALIOBORO_GUNUNGMAS
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/chunklist_w975570968.m3u8
+#EXTINF:-1 ,MALIOBORO_MALL_UTARA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/chunklist_w1271800156.m3u8
+#EXTINF:-1 ,MALIOBORO_MUTIARA_BARU
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w1428941662.m3u8
+#EXTINF:-1 ,MALIOBORO_SELATAN_TETEG
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/chunklist_w1104593753.m3u8
+#EXTINF:-1 ,MALIOBORO_TERANG_BULAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w855999861.m3u8
+#EXTINF:-1 ,MALIOBORO_UTARA_INNA_MALIOBORO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/chunklist_w231822208.m3u8
+#EXTINF:-1 ,MALIOBORO_UTARA_MALL
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_25_Utara_Mall.stream/media_w1949059101_1.ts
+#EXTINF:-1 ,NOL KM. - BNI/POS INDONESIA
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/chunklist_w1384209925.m3u8
+#EXTINF:-1 ,NOL KM. - GD. AGUNG
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/chunklist_w1231711407.m3u8
+#EXTINF:-1 ,NOL KM. - UTARA
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/chunklist_w562406278.m3u8
+#EXTINF:-1 ,SIMPANG TUGU
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/chunklist_w1254163463.m3u8
