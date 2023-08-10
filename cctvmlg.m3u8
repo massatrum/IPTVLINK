@@ -1,35 +1,75 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/938791837334761355142482.m3u8?
-#EXTINF:-1 ,Unknown_2
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/291214161756678285690451.m3u8?
-#EXTINF:-1 ,Unknown_3
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/231554183770498281450318.m3u8?
-#EXTINF:-1 ,Unknown_4
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/876263708687156206364361.m3u8?
-#EXTINF:-1 ,Unknown_5
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/627129209468594400740829.m3u8?
-#EXTINF:-1 ,Unknown_6
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/735506210316890709562691.m3u8?
-#EXTINF:-1 ,Unknown_7
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/401491802085987610923846.m3u8?
-#EXTINF:-1 ,Unknown_8
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/383651772119550945722301.m3u8?
-#EXTINF:-1 ,Unknown_9
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/699355759296848496652742.m3u8?
-#EXTINF:-1 ,Unknown_10
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/003687850006099691498995.m3u8?
-#EXTINF:-1 ,Unknown_11
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m3u8?
-#EXTINF:-1 ,Unknown_12
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8?
-#EXTINF:-1 ,Unknown_13
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/184398221253246434285173.m3u8?
-#EXTINF:-1 ,Unknown_14
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/982131430615781858979987.m3u8?
-#EXTINF:-1 ,Unknown_15
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/403857627918649455935609.m3u8?
-#EXTINF:-1 ,Unknown_16
+#EXTINF:-1 ,ALUN2 ARAH TIMUR
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/836932175769604266560282.m3u8?
-#EXTINF:-1 ,Unknown_17
+#EXTINF:-1 ,BUNDARAN LAVALETTE
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/855876619782149417527265.m3u8?
+#EXTINF:-1 ,BUNDARAN PESAWAT SOEHAT
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/184398221253246434285173.m3u8?
+#EXTINF:-1 ,DEPAN HOTEL SAVANA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/435572404308262635105603.m3u8?
+#EXTINF:-1 ,DEPAN SAVANA ARAH BARAT
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/608341519678952535574036.m3u8?
+#EXTINF:-1 ,DEPAN SAVANA ARAH UTARA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/052357343710249808147659.m3u8?
+#EXTINF:-1 ,DEPAN STASIUN MALANG KOTA BARU
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/027277786580967639165024.m3u8?
+#EXTINF:-1 ,DEPAN TERMINAL LANDUNGSARI
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/572534477246123479166921.m3u8?
+#EXTINF:-1 ,GADANG ARAH SELATAN
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530731075384566382488335.m3u8?
+#EXTINF:-1 ,GADANG ARAH TIMUR
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?
+#EXTINF:-1 ,JEMBATAN SOEKARNO HATTA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/003687850006099691498995.m3u8?
+#EXTINF:-1 ,JL A YANI ARAH UTARA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/195874189915723862555674.m3u8?
+#EXTINF:-1 ,JL BUNDARAN BANDUNG
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/699355759296848496652742.m3u8?
+#EXTINF:-1 ,JL CILIWUNG ARAH TIMUR
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/837266608824147804260618.m3u8?
+#EXTINF:-1 ,JL IJEN DEPAN GEREJA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/735506210316890709562691.m3u8?
+#EXTINF:-1 ,JL IJEN DEPAN PERPUS
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/627129209468594400740829.m3u8?
+#EXTINF:-1 ,JL IJEN DEPAN POLTEKES
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/383651772119550945722301.m3u8?
+#EXTINF:-1 ,JL TLOGOMAS ARAH BARAT (DEPAN REIZ HOTEL)
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/764851199443964636246450.m3u8?
+#EXTINF:-1 ,JL TLOGOMAS ARAH TIMUR (DEPAN REIZ HOTEL)
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8?
+#EXTINF:-1 ,Jl Tugu ARAH SELATAN
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/938791837334761355142482.m3u8?
+#EXTINF:-1 ,JL VETERAN ARAH BARAT
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/838413871917489102204055.m3u8?
+#EXTINF:-1 ,KAYUTANGAN DEPAN GEREJA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/291214161756678285690451.m3u8?
+#EXTINF:-1 ,PAHLAWAN TRIP
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/401491802085987610923846.m3u8?
+#EXTINF:-1 ,PEREMPATAN ALUN2
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/403857627918649455935609.m3u8?
+#EXTINF:-1 ,PEREMPATAN BCA
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/771615331018457682499213.m3u8?
+#EXTINF:-1 ,PEREMPATAN GUNUNGSARI ARAH TIMUR
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/660120947895309721081787.m3u8?
+#EXTINF:-1 ,PEREMPATAN GUNUNGSARI ARAH UTARA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/274808309434970115761531.m3u8?
+#EXTINF:-1 ,PEREMPATAN RAMPAL ARAH UTARA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/366629122294580263258917.m3u8?
+#EXTINF:-1 ,PERTIGAAN MASJID SABILILLAH
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/982131430615781858979987.m3u8?
+#EXTINF:-1 ,PLN - AVIA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/876263708687156206364361.m3u8?
+#EXTINF:-1 ,SOEKARNO HATTA ARAH SELATAN
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8?
+#EXTINF:-1 ,SOEKARNO HATTA ARAH UTARA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m3u8?
+#EXTINF:-1 ,SPBU CILIWUNG
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/810133524862588268334710.m3u8?
+#EXTINF:-1 ,STASIUN PATUNG SINGA
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/231554183770498281450318.m3u8?
+#EXTINF:-1 ,TERMINAL ARJOSARI
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/712057197220164117651869.m3u8?
+#EXTINF:-1 ,TERMINAL ARJOSARI 1
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/902490552268458858290479.m3u8?
+#EXTINF:-1 ,JL RADEN INTAN ARAH BARAT
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/053338675520352467621994.m3u8?
